@@ -19,6 +19,7 @@
     "@angular/platform-browser": "~8.1.0",
     "@angular/platform-browser-dynamic": "~8.1.0",
     "@angular/router": "~8.1.0",
+    "auth0-js": "^9.11.3",
     "bootstrap": "^4.3.1",
     "rxjs": "~6.4.0",
     "rxjs-compat": "^6.5.3",
